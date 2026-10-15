@@ -17,8 +17,8 @@ export const metadata: Metadata = {
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
+        url: '/icon.png', // Đã thay đổi từ /icon.svg thành /icon.png
+        type: 'image/png', // Đã thay đổi type tương ứng với file ảnh png
       },
     ],
     apple: '/apple-icon.png',
